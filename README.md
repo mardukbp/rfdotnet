@@ -2,7 +2,7 @@ Minimal Working Example of a .NET remote keyword server for Robot Framework
 
 # Requirements
 
-* .NET Core 5.0
+* .NET Core 6.0
 * Robot Framework 3.1+
 
 # Usage
